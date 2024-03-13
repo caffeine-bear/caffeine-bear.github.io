@@ -1,5 +1,5 @@
 +++
-title = "Bear"
+title = "idk"
 +++
 
 Website: [https://bearblog.dev](https://bearblog.dev)
